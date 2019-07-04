@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="lib/guava-master/android/guava-testlib/src"/>
+	<classpathentry kind="src" path="lib/guava-master/android/guava-testlib/test"/>
+	<classpathentry kind="src" path="lib/guava-master/android/guava-tests/benchmark"/>
+	<classpathentry kind="src" path="lib/guava-master/android/guava-tests/test"/>
+	<classpathentry kind="src" path="lib/guava-master/android/guava/src"/>
+	<classpathentry kind="src" path="lib/guava-master/guava-gwt/src"/>
+	<classpathentry kind="src" path="lib/guava-master/guava-gwt/src-super/com/google/common/base/super"/>
+	<classpathentry kind="src" path="lib/guava-master/guava-gwt/src-super/com/google/common/cache/super"/>
+	<classpathentry kind="src" path="lib/guava-master/guava-gwt/src-super/com/google/common/collect/super"/>
+	<classpathentry kind="src" path="lib/guava-master/guava-gwt/src-super/com/google/common/escape/super"/>
+	<classpathentry kind="src" path="lib/guava-master/guava-gwt/src-super/java/lang/super"/>
+	<classpathentry kind="src" path="lib/guava-master/guava-gwt/src-super/java/util/super"/>
+	<classpathentry kind="src" path="lib/guava-master/guava-gwt/test"/>
+	<classpathentry kind="src" path="lib/guava-master/guava-gwt/test-super/com/google/common/math/super"/>
+	<classpathentry kind="src" path="lib/guava-master/guava-gwt/test-super/com/google/common/testing/super"/>
+	<classpathentry kind="src" path="lib/guava-master/guava-testlib/src"/>
+	<classpathentry kind="src" path="lib/guava-master/guava-testlib/test"/>
+	<classpathentry kind="src" path="lib/guava-master/guava-tests/benchmark"/>
+	<classpathentry kind="src" path="lib/guava-master/guava-tests/test"/>
+	<classpathentry kind="src" path="lib/guava-master/guava/src"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/lib/beansbinding-1.2.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="dist/lib/stanford-postagger.jar"/>
+	<classpathentry kind="lib" path="dist/lib/twitter4j-core-4.0.4.jar"/>
+	<classpathentry kind="lib" path="dist/lib/twitter4j-stream-4.0.4.jar"/>
+	<classpathentry kind="lib" path="dist/SentimentAnalysisProject.jar"/>
+	<classpathentry kind="lib" path="lib/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="lib/stanford-postagger.jar"/>
+	<classpathentry kind="lib" path="lib/twitter4j-core-4.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/twitter4j-stream-4.0.4.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
